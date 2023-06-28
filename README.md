@@ -6,10 +6,10 @@
 
 Welcome to my GitHub page! I'm Christopher Elvenia, a passionate software engineer with a focus on web development and creating innovative solutions! Here's a little bit about me:
 
-- 🔭 I'm currently working on a clone of the popular application Discord, i wanted to build a clone of a application I use daily, and learning how web sockets working!
+- 🔭 I'm currently working on an AI personal assistant, i think it's an exciting technology and wanted to build an application that will allow me to explore it further!
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn]((https://www.linkedin.com/in/christopher-elvenia/))
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: In my spare time, I like to work on my car.
+- ⚡ Fun fact: In my spare time, I like to read and play video games
 
 ## GitHub Stats
 
