@@ -8,7 +8,6 @@ Welcome to my GitHub page! I'm Christopher Elvenia, a passionate software engine
 
 - 🔭 I'm currently working on an AI personal assistant, i think it's an exciting technology and wanted to build an application that will allow me to explore it further!
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn]((https://www.linkedin.com/in/christopher-elvenia/))
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: In my spare time, I like to read and play video games
 
 ## GitHub Stats
